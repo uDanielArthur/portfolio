@@ -9,7 +9,7 @@
 
 Cientista de dados, formado em Gestão Pública pelo IESB, tive a oportunidade de colaborar no combate à Covid-19 junto ao MPF/PGR enquanto participei do GIAC-COVID19, combinando habilidades analíticas, capacidade de trabalhar em ambientes de equipe e atenção aos detalhes. Atualmente cursando pós-graduação MBA em Data Science e Analytics na USP/ESALQ e desenvolvendo projetos práticos em ciência de dados orientados pela Escola Sigmoidal.
 
-Background in: #Python, #Machine Learning, #SQL, #Statistical, #Storytelling #Comunicação.**Background in:** Python, Machine Learning, SQL, Statistical, Storytelling.
+**Background in:** Python, Machine Learning, SQL, Statistical, Storytelling.
 
 **Links:**
 
