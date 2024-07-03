@@ -4,12 +4,13 @@
   <img src="https://static.s123-cdn-static-c.com/uploads/2187518/normal_5ce5cea85d002.gif" height=250px>
 </p>
 
-# Daniel Arthur
-<sub>*Lead Data Scientist* </sub>
+# Daniel Arthur 
+<sub>*Data Scientist* </sub>
 
-Cientista de dados, formado em Gestão Pública pelo IESB, tive a oportunidade de colaborar no combate à Covid-19 junto ao MPF/PGR enquanto participei do GIAC-COVID19, combinando habilidades analíticas, capacidade de trabalhar em ambientes de equipe e atenção aos detalhes. Atualmente desenvolvendo projetos práticos em ciência de dados orientados pela Escola Sigmoidal.
+Cientista de dados, formado em Gestão Pública pelo IESB, tive a oportunidade de colaborar no combate à Covid-19 junto ao MPF/PGR enquanto participei do GIAC-COVID19, combinando habilidades analíticas, capacidade de trabalhar em ambientes de equipe e atenção aos detalhes. Atualmente cursando pós-graduação em Data Science no Instituto Sendko de Ensino Superior e desenvolvendo projetos práticos em ciência de dados orientados pela Academia Sigmoidal.
 
-**Background in:** Python, Machine Learning, SQL, Statistical, Storytelling.
+
+**Background in:** Python, Machine Learning, SQL, Statistical, Storytelling, Comunicação.
 
 **Links:**
 
